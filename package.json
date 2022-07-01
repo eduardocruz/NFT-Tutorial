@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eduardocruz/NFT-Tutorial/issues"
   },
-  "homepage": "https://github.com/eduardocruz/NFT-Tutorial#readme"
+  "homepage": "https://github.com/eduardocruz/NFT-Tutorial#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  }
 }
